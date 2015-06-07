@@ -1,0 +1,42 @@
+/* 
+  AGSValidator.strings
+  OTTApp
+
+  Created by Ngoc Nhan Nguyen on 3/18/15.
+  Copyright (c) 2015 Nhan Nguyen. All rights reserved.
+*/
+
+"Authentication failed" = "Authentication failed";
+"Can't find connection name to use for authentication" = "Can't find connection name to use for authentication";
+
+"The server could not be contacted" = "The server could not be contacted";
+"Make sure your network settings are correct and your network connection is active, or try again later." = "Make sure your network settings are correct and your network connection is active, or try again later.";
+
+"There was an error logging in" = "There was an error logging in";
+"Invalid login credentials" = "Invalid login credentials";
+
+"The email and password you entered are invalid. Please try again." = "The email and password you entered are invalid. Please try again.";
+"The username and password you entered are invalid. Please try again." = "The username and password you entered are invalid. Please try again.";
+"The phone number and password you entered are invalid. Please try again." = "The phone number and password you entered are invalid. Please try again.";
+
+"The email you entered is invalid. Please try again." = "The email you entered is invalid. Please try again.";
+"The username you entered is invalid. Please try again." = "The username you entered is invalid. Please try again.";
+"The password you entered is invalid. Please try again." = "The password you entered is invalid. Please try again.";
+"The phone number you entered is invalid. Please try again." = "The phone number you entered is invalid. Please try again.";
+
+"The passwords you entered must match. Please try again." = "The passwords you entered must match. Please try again.";
+
+// social error -----------------------
+
+"Couldn't found authentication method for unknown strategy" = "Couldn't found authentication method for unknown strategy";
+"The strategy %@ has no registered authentication provider" = "The strategy %@ has no registered authentication provider";
+
+"There was an error contacting Facebook" = "There was an error contacting Facebook";
+"You need to authorize the application" = "You need to authorize the application";
+
+"There was an error contacting Twitter" = "There was an error contacting Twitter";
+"Permissions were not granted. Please authorize the app in Settings > Twitter" = "Permissions were not granted. Please authorize the app in Settings > Twitter";
+"Permissions were not granted. Try again" = "Permissions were not granted. Try again";
+"User cancelled the login operation. Try again" = "User cancelled the login operation. Try again";
+"The domain has not been setup for Twitter." = "The domain has not been setup for Twitter.";
+"The twitter account seems to be invalid. Please check it in Settings > Twitter and re-enter them." = "The twitter account seems to be invalid. Please check it in Settings > Twitter and re-enter them.";
